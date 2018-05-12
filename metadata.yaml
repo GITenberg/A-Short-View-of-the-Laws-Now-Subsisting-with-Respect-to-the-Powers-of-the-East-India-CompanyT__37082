@@ -1,0 +1,41 @@
+_repo: A-Short-View-of-the-Laws-Now-Subsisting-with-Respect-to-the-Powers-of-the-East-India-CompanyT__37082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Pulteney, William
+    aliases:
+    - Johnstone, William
+    - Johnstone-Pulteney, William
+    - Pulteney, W. (William)
+    birthdate: 1729
+    deathdate: 1805
+    gutenberg_agent_id: '36712'
+    url: http://www.gutenberg.org/2009/agents/36712
+  - agent_name: Stewart, John
+    alias: Stewart, J. (John)
+    birthdate: 1749
+    deathdate: 1822
+    gutenberg_agent_id: '39712'
+    url: http://www.gutenberg.org/2009/agents/39712
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Commercial policy'
+- !lcc 'DA'
+- !lcsh 'East India Company -- Appropriations and expenditures'
+- !lcsh 'East India Company -- Rules and practice'
+title: "A Short View of the Laws Now Subsisting with Respect to the Powers of the\
+  \ East India Company\r\nTo Borrow Money under their Seal, and to Incur Debts in\
+  \ the Course of their Trade, by the Purchase of Goods on Credit, and by Freighting\
+  \ Ships or other Mercantile Transactions"
+url: http://www.gutenberg.org/ebooks/37082
