@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '39712'
     url: http://www.gutenberg.org/2009/agents/39712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37082#A-Short-View-of-the-Laws-Now-Subsisting-with-Respect-to-the-Powers-of-the-East-India-CompanyT_
 gutenberg_issued: '2011-08-14'
 gutenberg_type: Text
 identifiers:
